@@ -18,6 +18,7 @@ public class Example {
         System.out.println("Ahora su primer numero es: " +  num1);
         
         System.out.println("Ahora su segundo numero es: " +  num2);
+        sc.close();
     }    
 
 }

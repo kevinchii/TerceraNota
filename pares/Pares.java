@@ -21,5 +21,6 @@ public class Pares {
          }
         
          System.out.println(contadorPares);
+         SC.close();
     }
 }

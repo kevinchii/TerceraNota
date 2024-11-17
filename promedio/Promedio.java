@@ -16,6 +16,6 @@ public class Promedio {
 
          int promedio = (primeraCantida+segundaCantidad+terceraCantidad)/3;
         System.out.println(((double)promedio)); 
-
+        SC.close();
     }
 }

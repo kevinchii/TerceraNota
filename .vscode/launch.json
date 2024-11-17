@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ejer1",
+            "request": "launch",
+            "mainClass": "Ejer1",
+            "projectName": "TerceraNota_6b6250e3"
+        },
+        {
+            "type": "java",
+            "name": "InvertirArray",
+            "request": "launch",
+            "mainClass": "arrays.InvertirArray",
+            "projectName": "TerceraNota_6b6250e3"
+        },
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "cambioVariable.Example",
+            "projectName": "TerceraNota_6b6250e3"
+        },
+        {
+            "type": "java",
+            "name": "Pares",
+            "request": "launch",
+            "mainClass": "pares.Pares",
+            "projectName": "TerceraNota_6b6250e3"
+        },
+        {
+            "type": "java",
+            "name": "Promedio",
+            "request": "launch",
+            "mainClass": "promedio.Promedio",
+            "projectName": "TerceraNota_6b6250e3"
+        }
+    ]
+}

@@ -23,6 +23,7 @@ public class Ejer1 {
         System.out.println("multiplicacion: " + multiplicacion);
         System.out.println("division: " + division);
         System.out.println("modulo: " + modulo);
+        scanner.close();
     }    
 
 }
