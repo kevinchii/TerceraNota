@@ -28,7 +28,7 @@ public class NumeroMayor {
         if (ultm==1) {
             ultm = 0;
         }
-        System.out.println("El array es:"+Arrays.toString(numeros)+"\nEl número mayor es: "+mayor+"\ny se repite "+ultm+" veces.");
+        System.out.println("El arr es:"+Arrays.toString(numeros)+"\nEl número mayor es: "+mayor+"\ny se repite "+ultm+" veces.");
         scan.close();
         }
 

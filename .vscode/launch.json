@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValorModificado",
+            "request": "launch",
+            "mainClass": "OtrosEjercicios.ValorModificado",
+            "projectName": "TerceraNota_6b6250e3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "OtrosEjercicios.Ejercicio2",
+            "projectName": "TerceraNota_6b6250e3"
+        },
+        {
+            "type": "java",
+            "name": "EliminarDuplicados",
+            "request": "launch",
+            "mainClass": "arrays.EliminarDuplicados",
+            "projectName": "TerceraNota_6b6250e3"
+        },
+        {
+            "type": "java",
+            "name": "NumeroMayor",
+            "request": "launch",
+            "mainClass": "arrays.NumeroMayor",
+            "projectName": "TerceraNota_6b6250e3"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

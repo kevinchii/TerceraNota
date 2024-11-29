@@ -15,7 +15,7 @@ public class EliminarDuplicados {
             System.out.println("Ingresa el numero "+suma);
             numeros[i] = scan.nextInt();
         }
-        System.out.println("Array inicial: "+Arrays.toString(numeros));
+        System.out.println("arr inicial: "+Arrays.toString(numeros));
         for(int j = 0;j<numeros.length;j++){
             for(int k = 0;k<numeros.length;k++){
                 if (numeros[j]==numeros[k]) {
@@ -28,7 +28,7 @@ public class EliminarDuplicados {
             }
             cont = 0;
         }
-        System.out.println("Array final: "+Arrays.toString(numeros));
+        System.out.println("arr final: "+Arrays.toString(numeros));
         scan.close();
     }
 }

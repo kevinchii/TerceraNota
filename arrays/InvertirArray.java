@@ -23,8 +23,8 @@ public class InvertirArray {
             ArrayNew[i] = ArrayOrigin[longuitud-i-1];
             ArrayNew[longuitud-i-1] = ArrayOrigin[i];
         }
-        System.out.println("Array ingresada:"+Arrays.toString(ArrayOrigin));
-        System.out.println("Array invertida:"+Arrays.toString(ArrayNew));
+        System.out.println("arr ingresada:"+Arrays.toString(ArrayOrigin));
+        System.out.println("arr invertida:"+Arrays.toString(ArrayNew));
         scan.close();
     }
 }
